@@ -12,8 +12,8 @@ The model consists of an encoder and a decoder. Encoder is made of two Convoluti
 
 Following image consists of 10 'noise-added' test images.  
 
-['noisy' test images](noise.png)
+!['noisy' test images](noise.png)
 
 Following is the 'denoised' output images from the model.  
 
-['denoised' test images](test_preds.png)
+!['denoised' test images](test_preds.png)
